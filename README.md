@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Banner" src="https://raw.githubusercontent.com/chalys/chalys/main/banner.png">
+  <img alt="Banner" src="https://raw.githubusercontent.com/chalys/chalys/main/src/img/banner.png">
 </p>
 
 ## 👋 &nbsp;Hey everyone! I'm Carlos R. Arando
