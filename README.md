@@ -4,6 +4,15 @@
 
 ## 👋 &nbsp;Hey everyone! I'm Carlos R. Arando
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/chalys">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chalys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chalys&layout=compact&langs_count=8&theme=algolia">
+  </a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -17,7 +26,7 @@
 </p>
 
 
-### Languages and Tools:
+### 💻 &nbsp;Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
