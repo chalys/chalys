@@ -22,8 +22,9 @@
 ### 🔗 &nbsp;My Social Networks
 
 <p align="center">
-<a href="https://www.youtube.com/@chalys-all"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/carando"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+<a href="https://www.youtube.com/@chalys-all"><img src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
+
+<a href="https://www.linkedin.com/in/carando"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white"></a>
 </p>
 
 ### 💻 &nbsp;Languages and Tools:
