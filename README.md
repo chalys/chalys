@@ -4,6 +4,19 @@
 
 ## 👋 &nbsp;Hey everyone! I'm Carlos R. Arando
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="mailto:chalys.all@gmail.com"><img src="https://img.shields.io/badge/-chalys.all@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+</p>
+
+### 🔗 &nbsp;My Social Networks
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carando"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+</p>
+
+
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
