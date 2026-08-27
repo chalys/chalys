@@ -2,60 +2,70 @@
   <img alt="Banner" src="https://raw.githubusercontent.com/chalys/chalys/main/src/img/banner.png">
 </p>
 
-## 👋 &nbsp;Hey everyone! I'm Carlos R. Arando
-### 👨🏼‍💻&nbsp;About Me
+## 👋 Hey everyone! I'm Carlos R. Arando
+### 👨🏼‍💻 About Me
 
-💻 I am a person passionate about technology, collaborative, enthusiastic, with strong teamwork skills and a commitment to continuous learning. I am dedicated to continuing to grow and making meaningful contributions to every project I take part in.
+🚀 Passionate about technology, teamwork, and continuous learning.
 
-📧 Please feel free to contact me for any inquiries or collaborations: chalys.all@gmail.com
+📚 Currently training as a Full Stack developer with a focus on Back-End, with experience in integrative projects covering the entire web stack.
 
-### ⚙️ &nbsp;GitHub Analytics
+🎯 I aspire to become a Tech Lead, combining my technical interest with leadership and communication skills. I'm looking for real-world projects to consolidate my knowledge and grow.
+
+🤝 I enjoy collaborating, teaching, and learning from others. Committed to giving my best in every project.
+
+📧 Contact: chalys.all@gmail.com
+
+---
+
+### 🚀 What I'm Currently Up To
+
+- 🔭 **Working on:** Freelance projects and continuous training
+- 🌱 **Learning:** Back-End development with Java and deepening Full Stack skills
+- 👯 **Looking to collaborate on:** Software development projects to gain real-world experience
+- 💬 **Ask me about:** Web development, programming courses, or my learning journey
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+  <img alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+  <img alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+  <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  <img alt="Jira" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+  <img alt="Confluence" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style="padding-right:10px;" />
+  <img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/chalys">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chalys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chalys&layout=compact&langs_count=8&theme=algolia">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chalys&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chalys&layout=compact&langs_count=8&theme=algolia" />
   </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+### 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:chalys.all@gmail.com"><img src="https://img.shields.io/badge/-chalys.all@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:chalys.all@gmail.com">
+    <img src="https://img.shields.io/badge/-chalys.all@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carando">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@chalys-all">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
-
-### 🔗 &nbsp;My Social Networks
-
-<p align="center">
-<a href="https://www.youtube.com/@chalys-all"><img src="https://img.shields.io/badge/Youtube%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/carando"><img src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
-</p>
-
-### 💻 &nbsp;Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://en.wikipedia.org/wiki/Terminal_emulator)
-[<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />](https://www.atlassian.com/software/jira)
-[<img align="left" alt="Scrum" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style="padding-right:10px;" />](https://www.scrum.org/)
-
-<!--
-**chalys/chalys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
