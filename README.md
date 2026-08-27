@@ -3,6 +3,11 @@
 </p>
 
 ## 👋 &nbsp;Hey everyone! I'm Carlos R. Arando
+### 👨🏼‍💻&nbsp;About Me
+
+💻 I am a person passionate about technology, collaborative, enthusiastic, with strong teamwork skills and a commitment to continuous learning. I am dedicated to continuing to grow and making meaningful contributions to every project I take part in.
+
+📧 Please feel free to contact me for any inquiries or collaborations: chalys.all@gmail.com
 
 ### ⚙️ &nbsp;GitHub Analytics
 
